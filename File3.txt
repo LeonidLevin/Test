@@ -1,3 +1,5 @@
 file 3 text
 
 stashed change
+
+v2.0
